@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "my-server",
+            "script": "node dist/src/main.js",
+            "env": {
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}
